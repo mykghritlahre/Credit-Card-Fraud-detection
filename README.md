@@ -20,7 +20,12 @@ Clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/mykghritlahre/Credit-Card-Fraud-detection.git
 cd Credit-Card-Fraud-detection
-pip install -r requirements.txt
+pip install keras
+pip install tensorflow
+pip install numpy
+pip install pandas
+
+
 ```
 
 ## Usage
