@@ -24,6 +24,7 @@ pip install keras
 pip install tensorflow
 pip install numpy
 pip install pandas
+pip install -U imbalanced-learn
 
 
 ```
